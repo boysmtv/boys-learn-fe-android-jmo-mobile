@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/drawable/customer_shape_radius_layout.xml" value="0.314" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/drawable/customer_shape_radius_menu.xml" value="0.14" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_main.xml" value="0.26851851851851855" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_assets.xml" value="0.26851851851851855" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_berita.xml" value="0.3109375" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_finance.xml" value="0.3109375" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_finance_item.xml" value="0.3109375" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_finance_news_flash.xml" value="0.36065573770491804" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_finance_news_flash_item.xml" value="0.3109375" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_home.xml" value="0.5" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_home_item.xml" value="0.3109375" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_newest.xml" value="0.3109375" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_fragment_profile.xml" value="0.3109375" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_menu_main.xml" value="0.26851851851851855" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/activity_splashscreen.xml" value="0.26851851851851855" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/layout/custom_bar.xml" value="0.5415384615384615" />
+        <entry key="..\:/Boys/Rnd/Test/JMO Mobile/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.26851851851851855" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -18,6 +18,9 @@ jobs:
           java-version: '17'
           distribution: 'adopt'
 
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
+
       - name: Build with Gradle
         run: ./gradlew build
 
@@ -26,6 +29,3 @@ jobs:
         with:
           name: JMO Mobile.apk
           path: app/build/outputs/apk/debug/app-debug.apk
-
-      - name: Make gradlew executable
-        run: chmod +x ./gradlew

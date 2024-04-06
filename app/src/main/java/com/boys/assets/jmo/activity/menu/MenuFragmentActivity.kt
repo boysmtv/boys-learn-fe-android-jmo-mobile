@@ -48,10 +48,4 @@ class MenuFragmentActivity : AppCompatActivity() {
         transaction.replace(R.id.rootFragment, fragment)
         transaction.commit()
     }
-
-    //You add the code below without extending **MultiDexApplication**
-    override fun attachBaseContext(base: Context?) {
-        super.attachBaseContext(base)
-        MultiDex.install(this)
-    }
 }

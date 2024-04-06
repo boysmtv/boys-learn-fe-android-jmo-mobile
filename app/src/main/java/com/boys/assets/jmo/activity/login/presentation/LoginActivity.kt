@@ -1,11 +1,9 @@
 package com.boys.assets.jmo.activity.login.presentation
 
-import android.os.Build
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
-import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import com.boys.assets.jmo.activity.login.model.LoginReqModel
 import com.boys.assets.jmo.activity.login.vm.LoginViewModel
@@ -108,7 +106,6 @@ class LoginActivity : AppCompatActivity() {
     /**
      * set onclick listener
      */
-    @RequiresApi(Build.VERSION_CODES.O)
     private fun setOnClickListener(
         viewModel: LoginViewModel,
         etEmail: EditText,

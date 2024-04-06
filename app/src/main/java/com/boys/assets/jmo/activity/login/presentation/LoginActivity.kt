@@ -66,6 +66,7 @@ class LoginActivity : AppCompatActivity() {
 
     /**
      * handle form validation
+     * this is just temporary
      */
     private fun getValidationForm(
         viewModel: LoginViewModel,
